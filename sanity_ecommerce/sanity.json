@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "ecommerce-elm"
+    "name": "e-commerce"
   },
   "api": {
-    "projectId": "gekuqf64",
+    "projectId": "3dwb47g6",
     "dataset": "production"
   },
   "plugins": [
